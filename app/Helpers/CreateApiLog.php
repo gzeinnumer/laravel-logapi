@@ -39,4 +39,3 @@ class CreateApiLog
     }
     ############## END LOG API ##############
 }
-
