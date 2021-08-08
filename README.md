@@ -59,7 +59,7 @@ class UsersController extends Controller
 
 ![](https://github.com/gzeinnumer/laravel-logapi/blob/master/preview/example1.jpg)
 
-![](https://github.com/gzeinnumer/laravel-logapi/blob/master/preview/example2.jpg)
+![](https://github.com/gzeinnumer/laravel-logapi/blob/master/preview/example4.jpg)
 
 ![](https://github.com/gzeinnumer/laravel-logapi/blob/master/preview/example3.jpg)
 
