@@ -51,9 +51,9 @@ class UsersController extends Controller
 }
 ```
 
-* [CreateApiLog.php](https://github.com/gzeinnumer/laravel-logapi/blob/master/app/Helpers/CreateApiLog.php)
+* [app/Helpers/CreateApiLog.php](https://github.com/gzeinnumer/laravel-logapi/blob/master/app/Helpers/CreateApiLog.php)
 
-* [TransLogApi.php](https://github.com/gzeinnumer/laravel-logapi/blob/master/app/Models/TransLogApi.php)
+* [app/Models/TransLogApi.php](https://github.com/gzeinnumer/laravel-logapi/blob/master/app/Models/TransLogApi.php)
 
 * Preview
 
